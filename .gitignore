@@ -1,0 +1,33 @@
+# Android Studio and VS Code
+.idea/
+.vscode/
+**/.idea/
+**/*.iml
+
+# Flutter and Dart generated folders
+**/.dart_tool/
+**/build/
+
+# Android generated files
+**/android/.gradle/
+**/android/local.properties
+
+# Apple generated files
+**/ios/Pods/
+**/macos/Pods/
+
+# Flutter temporary platform files
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compressed and temporary files
+*.zip
+*.rar
+*.7z
+*.tmp
