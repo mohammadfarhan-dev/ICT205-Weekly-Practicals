@@ -73,3 +73,37 @@ It covers:
 Folder:
 
 `Prac_03_Responsive_UI`
+
+---
+
+### Practical 4 – Navigation, Routing & App Architecture
+
+This practical demonstrates structured Flutter navigation and layered application architecture.
+
+It covers:
+
+- Stack-based navigation
+- Named routes
+- Centralised route configuration
+- `Navigator.pushNamed`
+- Passing data between screens using route arguments
+- Reading arguments with `ModalRoute.of(context)`
+- Onboarding → Dashboard navigation flow
+- Back navigation
+- UI, Domain, and Data layers
+- `User` domain model
+- `UserService` data layer
+- Widget testing
+- Flutter static analysis
+
+Folder:
+
+`Prac_04_Navigation_Architecture`
+
+Flutter project:
+
+`Prac_04_Navigation_Architecture/navigation_lab`
+
+Evidence:
+
+`Prac_04_Navigation_Architecture/evidence`
