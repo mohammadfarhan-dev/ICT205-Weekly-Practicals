@@ -107,3 +107,41 @@ Flutter project:
 Evidence:
 
 `Prac_04_Navigation_Architecture/evidence`
+
+---
+
+### Practical 5 – State Management
+
+This practical demonstrates Flutter state management using the Provider package through a Travel Experience Booking App.
+
+It covers:
+
+- Provider-based state management
+- `ChangeNotifier`
+- Centralised booking state
+- `notifyListeners()`
+- Reactive UI updates
+- Traveller slider from 1 to 10
+- Dynamic booking price calculation
+- `Booking` domain model
+- Provider and domain integration
+- Named route navigation
+- Home → Summary navigation flow
+- Shared Provider state across screens
+- UI, Domain, Data, and Provider architecture
+- Clean Material interface
+- Flutter static analysis
+- Automated widget testing
+
+Folder:
+
+`Prac_05_State_Management`
+
+Flutter project:
+
+`Prac_05_State_Management/travel_booking_app`
+
+Evidence:
+
+`Prac_05_State_Management/evidence`
+
