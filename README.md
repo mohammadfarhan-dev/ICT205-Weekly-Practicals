@@ -145,3 +145,38 @@ Evidence:
 
 `Prac_05_State_Management/evidence`
 
+---
+
+### Practical 6 – Forms, Input & Validation
+
+This practical demonstrates form handling, user input, validation, secure password entry, and structured data preparation in Flutter through a registration form.
+
+It covers:
+
+- Flutter `Form`
+- `GlobalKey<FormState>`
+- `TextEditingController`
+- Full Name, Email, and Password inputs
+- Student and Admin role selection
+- Required field validation
+- Email format validation
+- Minimum 6-character password validation
+- Secure password entry with `obscureText`
+- Password suggestions and autocorrect disabled
+- Structured `userData` preparation
+- Clear validation messages
+- Successful registration feedback
+- Flutter static analysis
+- Automated widget testing
+
+Folder:
+
+`Prac_06_Forms_Input_Validation`
+
+Flutter project:
+
+`Prac_06_Forms_Input_Validation/flutter_forms_lab`
+
+Evidence:
+
+`Prac_06_Forms_Input_Validation/evidence`
